@@ -6,7 +6,7 @@ const traverse = require("ast-traverse"); // AST Parsing
 
 const config = require("./config.json"); // Config File
 
-let url = "https://padlet.com/mrepublic/general";
+let url = "https://padlet.com/123456/abcdef";
 
 const info = async url => {
   let token = null;
